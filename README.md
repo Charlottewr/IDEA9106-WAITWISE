@@ -12,7 +12,7 @@ The QR sign links to the passenger view. If GitHub Pages is not enabled, publish
 
 ## What to test
 
-The passenger view includes an ETA range, a qualitative confidence label about prediction reliability, a simulated passenger request flow and travel option comparisons. The facilitator view contains the classroom scenarios and multiple layouts for comparing ETA, confidence, decision support and the optional waiting guide.
+The passenger view includes an ETA range, a qualitative confidence label about prediction reliability, a simulated passenger request flow and travel option comparisons. On the home screen, passengers can inspect Bus 412 at the current stop or Bus 422 at a nearby stop before comparing total journey times. The reliability screen links its Low or High label to a decision prompt and keeps the alternative route visible. Bus 422 requires a simulated four-minute walk, followed by a simulated five-to-nine-minute wait; choosing a route in the demo does not book travel. The facilitator view contains the classroom scenarios and multiple layouts for comparing ETA, confidence, decision support and the optional waiting guide.
 
 To simulate an arrival update, open the passenger and facilitator views in separate tabs of the **same browser on the same device**. Change the scenario in the facilitator tab, then return to the passenger tab. Scenario changes do not sync across different devices. The displayed previous/current estimate and update time are part of this simulation, not a live transport feed.
 
